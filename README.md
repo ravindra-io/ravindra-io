@@ -34,8 +34,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Passionate+about+Web+Development+and+Cybersecurity." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB6ZzQ0ZmZrdHcxenZubDM2M3lzanN1Y3R3d2d0NXVmcjgyamRiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
