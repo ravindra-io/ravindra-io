@@ -80,37 +80,28 @@
 </table>
 
 ---
-
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Core Programming & Foundations</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css&theme=dark" width="100%" style="max-width: 380px;" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,html,css&theme=dark" width="100%" style="max-width: 220px;" alt="Languages" />
   </a>
 </p>
 
-<p align="center"><b>Tools, Version Control & Environment</b></p>
+<p align="center"><b>Tools & Environment</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" width="100%" style="max-width: 340px;" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,github&theme=dark" width="100%" style="max-width: 280px;" alt="Tools" />
   </a>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
+<p align="center"><b>AI & Content Tools</b></p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ravindrayadav&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ravindrayadav&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/AI%20Image%20Generation-Prompt%20Engineering-DC2626?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" alt="AI Image Generation" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Tools-Content%20%26%20Research-111111?style=for-the-badge&logo=google&logoColor=EF4444&labelColor=0a0a0a" alt="AI Content & Research" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrayadav&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
 ---
 
 <h2 align="center">📬 Let's Connect</h2>
