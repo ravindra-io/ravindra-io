@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="assets/header.svg" width="100%" alt="Ravindra Yadav Header" />
 </p>
-
+ 
 <p align="center">
   <a href="https://github.com/ravindrayadav">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Ravindra%20Yadav%20%F0%9F%91%8B;BCA%20Student%20%26%20Aspiring%20Developer%20%F0%9F%8E%93;Web%20Dev%2C%20Cybersecurity%20%26%20AI%20Tools%20%F0%9F%92%BB;Building%20a%20future-proof%20foundation%20in%20tech%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
