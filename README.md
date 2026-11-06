@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">🔴 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Passionate+about+Web+Development+and+Cybersecurity." width="100%" style="max-width: 600px;" alt="Typing Quote" />
